@@ -3,18 +3,18 @@ body {
     background-color: rgb(223, 175, 112);
     font-size: 30px;
     
-    
 }
 
+p {
+    font-size: 40px;
+}
 .poop {
-    color: rgb(6, 7, 0);
+    color: rgb(179, 56, 29);
     
     
 }
 
 ul, ol, li {
-    
-
-
+    font-size: 30px;
     
 }
