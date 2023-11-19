@@ -1,17 +1,17 @@
 body {
-    background-color: yellowgreen;
-    background-color: rgba(62, 60, 180, 0.855);
-    font-family: 
+    background-color: rgba(0, 0, 0, 0.616);
+    text-align: center;
+    color: rgb(210, 144, 30);
 }
 
 h1 {
-    align-items: center;
+    
     text-align: center;
-    font-size: 40px;
-    color: orangered;
+    font-size: 50px;
 }
 
 a {
-    color: orangered;
+    
+    color: rgb(210, 144, 30);
     font-size: 32px;
 }
