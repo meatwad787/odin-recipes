@@ -1,20 +1,31 @@
 body {
     
-    background-color: rgb(223, 175, 112);
-    font-size: 26px;
+    background-color: rgba(245, 203, 148, 0.756);
+    font-size: 30px;
+    color: rgb(170, 45, 17);
+}
+
+h1, h2, h3, p {
+
+     padding-left: 4%;
+}
+
+li {
+    list-style-position: inside;
+    margin: 2%;
+    
     
 }
 
-p {
-    font-size: 40px;
+.store {
+    font-size: 37px;
+    font-style: italic;
+    font-weight: bold;
 }
-.poop {
-    color: rgb(179, 56, 29);
-    
-    
-}
+
 
 ul, ol, li {
-    font-size: 30px;
+    font-size: 33px;
     
 }
+
